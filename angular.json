@@ -26,7 +26,8 @@
             "extraWebpackConfig": "webpack.config.js",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/manifest.json"
             ],
             "styles": [
               "src/styles.scss"
@@ -92,7 +93,8 @@
             "extraWebpackConfig": "webpack.config.js",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/manifest.json"
             ],
             "styles": [
               "src/styles.scss"
